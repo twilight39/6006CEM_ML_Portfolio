@@ -15,6 +15,7 @@
 # ---
 
 # %% [markdown]
+# # Exploratory Data Analysis (EDA)
 # The Ask A Manager Salary Survey 2021 dataset is used for this Regression Task.
 #
 # The goal of this project will be to understand which factors affect annual salary, and create models to predict it.
