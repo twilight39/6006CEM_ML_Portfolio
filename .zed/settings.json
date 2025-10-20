@@ -1,0 +1,9 @@
+{
+  "file_scan_exclusions": [
+    "**/.ipynb_checkpoints",
+    "**/.venv",
+    "**/.ruff_cache",
+    "**/.git",
+    "**/.DS_Store"
+  ]
+}

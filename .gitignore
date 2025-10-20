@@ -5,9 +5,13 @@ build/
 dist/
 wheels/
 *.egg-info
+*.ipynb_checkpoints
+.ruff_cache
+.venv
 
 # Virtual environments
 .venv
 
 # Other
 **/.DS_Store
+**/.git
